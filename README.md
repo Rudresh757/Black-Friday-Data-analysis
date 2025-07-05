@@ -1,9 +1,9 @@
 # Black-Friday-Data-analysis
 
-📑 Project Overview
+# Project Overview
 This project performs an exploratory data analysis (EDA) on a real-world Black Friday sales dataset, aiming to uncover consumer behavior patterns, purchasing habits, and demographic insights. Through comprehensive data cleansing and visualizations, it offers a clear understanding of sales trends during one of the biggest retail events.
 
-🎯 Objectives
+# Objectives
 Analyze a large-scale retail transaction dataset.
 
 Clean and preprocess data by handling missing values and redundant features.
@@ -12,7 +12,7 @@ Segment customers based on demographics such as gender, age group, occupation, a
 
 Visualize sales trends and consumer patterns using interactive plots.
 
-📚 Dataset Details
+# Dataset Details
 📦 Source: Kaggle Black Friday Dataset
 
 📄 Records: 500,000+ transactions
@@ -30,7 +30,7 @@ Matplotlib
 
 Seaborn
 
-📊 Key Insights & Features
+# Key Insights & Features
 ✅ Cleaned and handled missing values effectively to improve data quality.
 ✅ Analyzed customer purchase behavior across gender, age groups, occupation, and marital status.
 ✅ Visualized purchase patterns using:
@@ -56,14 +56,14 @@ Seaborn
 Clone the Repository
 
 
-📖 What I Learned
+# What I Learned
 Hands-on experience in data preprocessing and EDA techniques.
 
 Improved skills in data visualization and trend analysis.
 
 Gained insights into customer segmentation and retail analytics.
 
-✨ Future Enhancements
+# Future Enhancements
 Integrate machine learning models for predicting customer spending.
 
 Create interactive dashboards using Plotly or Streamlit.
